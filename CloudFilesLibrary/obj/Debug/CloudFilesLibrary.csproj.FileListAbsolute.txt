@@ -1,0 +1,7 @@
+E:\Project Data\323 National Heatmap\CloudFileLibrary\upload-to-cf-cs\CloudFilesLibrary\bin\Debug\CloudFilesLibrary.dll
+E:\Project Data\323 National Heatmap\CloudFileLibrary\upload-to-cf-cs\CloudFilesLibrary\bin\Debug\CloudFilesLibrary.pdb
+E:\Project Data\323 National Heatmap\CloudFileLibrary\upload-to-cf-cs\CloudFilesLibrary\bin\Debug\log4net.dll
+E:\Project Data\323 National Heatmap\CloudFileLibrary\upload-to-cf-cs\CloudFilesLibrary\bin\Debug\log4net.xml
+E:\Project Data\323 National Heatmap\CloudFileLibrary\upload-to-cf-cs\CloudFilesLibrary\obj\Debug\ResolveAssemblyReference.cache
+E:\Project Data\323 National Heatmap\CloudFileLibrary\upload-to-cf-cs\CloudFilesLibrary\obj\Debug\CloudFilesLibrary.dll
+E:\Project Data\323 National Heatmap\CloudFileLibrary\upload-to-cf-cs\CloudFilesLibrary\obj\Debug\CloudFilesLibrary.pdb
